@@ -77,7 +77,7 @@ function osubmit(){
 
 function oreset(){
     document.getElementById("name").value=""; document.getElementById("Username").value="";
-    document.getElementById("pass").value=""; document.getElementById("email").value="";
+    document.getElementById("gender").value="";document.getElementById("pass").value=""; document.getElementById("email").value="";
     document.getElementById("address").value=""; document.getElementById("interests").value="";
-    document.getElementById("gender").value="";
+    
 }
