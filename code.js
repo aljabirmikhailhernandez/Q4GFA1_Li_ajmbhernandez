@@ -74,9 +74,9 @@ function osubmit(){
     interests=document.getElementById("interests").value;
     gender=document.getElementById("gender").value;
    
-    document.getElementById("outName").innerHTML="Name: "+aname;
+    document.getElementById("outName").innerHTML="Name: "+name;
     document.getElementById("outUsername").innerHTML="Userame: "+uname;
-    document.getElementById("outPword").innerHTML="Password: "+pword;
+    document.getElementById("outPass").innerHTML="Password: "+pass;
     document.getElementById("outEmail").innerHTML="Email: "+email;
     document.getElementById("outAddress").innerHTML="Address: "+address;
     document.getElementById("outInterests").innerHTML="Interest/s: "+interests;
